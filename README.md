@@ -4,9 +4,9 @@
 Training tools for Tesseract compilable under VS2015. This repository in addition to a copy of Tesseract sources, I have added projects & Solution for Visual Studio 2015. Training tools are now compilable under VS2015 for Windows. For those of you who need quick access to tools (and not a developer), I have provided binary files compiled from sources for Windows. I will maintain and add more tools for Version 4.0 soon.
 
 ## Note:
-Goes without saying, All binaries are supplies AS-IS basis. No warranties or responsibilities borne by author. This is a community service and as such, any help would be limited and at the discretion of the author.
+Goes without saying, All binaries are supplied AS-IS basis. No warranties or responsibilities borne by author. This is a community service and as such, any help would be limited and at the discretion of the author.
 
-All Tesseract sources are supplied under Apache license. However this software depends on other packages that may be licensed under different open source licenses. Users are encouraged to read the licenses before distributing or using in their commercial products
+All Tesseract sources are supplied under Apache license-2.0. However this software depends on other packages that may be licensed under different open source licenses. Users are encouraged to read the licenses before distributing or using in their commercial products
 
 ## License:
 The code in this repository is licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
