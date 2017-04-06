@@ -1,0 +1,1 @@
+-D C:\Users\Vijaya\AppData\Local\Temp\vf1v1fsl5ik -F C:\Users\Vijaya\AppData\Local\Temp\vf1v1fsl5ik\eng.fp -U C:\Users\Vijaya\AppData\Local\Temp\vf1v1fsl5ik\unicharset -O C:\Users\Vijaya\AppData\Local\Temp\vf1v1fsl5ik\pr.unicharset --script_dir=C:\Users\Vijaya\Documents\Data\Work\2017\BrahasOCR\btocr\bin\Debug\langdata
